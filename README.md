@@ -1,8 +1,38 @@
-# React + Vite
+# 🚀 Xora – SaaS Landing Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Xora** is a high-impact, responsive SaaS landing page built for modern startups and tech brands. It’s got that Apple-level polish, packed with animations, clean UI, and smooth interactions — perfect for showcasing your product or service like a pro.
 
-Currently, two official plugins are available:
+🔗 **Live Demo**: [ra-xora-saas-landing-page.vercel.app](https://ra-xora-saas-landing-page.vercel.app/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
+
+## ✨ Features
+
+- 🔁 **Fully Responsive** – Works and looks great on all devices.
+- 🎨 **Modern UI** – Built with Tailwind CSS, giving it that clean and bold design.
+- ⚙️ **Reusable Components** – Modular layout makes it easy to tweak and reuse.
+- 🎯 **Conversion-Driven Layout** – Hero, features, pricing, testimonials, CTA — all ready.
+- 💥 **Framer Motion Animations** – Smooth scrolls, fades, and subtle movement.
+- ⚡ **Optimized Performance** – Fast load times, image optimization, and good Lighthouse scores.
+
+---
+
+## 🧠 Tech Stack
+
+- **Framework**: [Next.js](https://nextjs.org/)
+- **Styling**: [Tailwind CSS](https://tailwindcss.com/)
+- **Animations**: [Framer Motion](https://www.framer.com/motion/)
+- **Deployment**: [Vercel](https://vercel.com/)
+- **Icons**: [Lucide](https://lucide.dev/)
+
+---
+
+## 🚧 Getting Started
+
+Want to run it locally? Easy:
+
+### 1. Clone the repo
+
+```bash
+git clone https://github.com/your-username/xora-saas-landing-page.git
+cd xora-saas-landing-page
