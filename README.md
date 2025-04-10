@@ -27,12 +27,46 @@
 
 ---
 
-## 🚧 Getting Started
+1. **Clone the Repository**:
 
-Want to run it locally? Easy:
+    ```bash
+    git clone https://github.com/yourusername/xora-saas-landing-page.git
+    ```
+    
+2. **Navigate to the Project Directory**:
 
-### 1. Clone the repo
+    ```bash
+    cd xora-saas-landing-page
+    ```
 
-```bash
-git clone https://github.com/your-username/xora-saas-landing-page.git
-cd xora-saas-landing-page
+3. **Install Dependencies**:
+
+    Using npm:
+
+    ```bash
+    npm install
+    ```
+
+    Or using Yarn:
+
+    ```bash
+    yarn install
+    ```
+
+4. **Start the Development Server**:
+
+    Using npm:
+
+    ```bash
+    npm run dev
+    ```
+
+    Or using Yarn:
+
+    ```bash
+    yarn dev
+    ```
+
+5. **Access the Application**:
+
+    Open your browser and navigate to `http://localhost:3000` to view the app.
